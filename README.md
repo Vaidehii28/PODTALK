@@ -62,4 +62,4 @@ Build my-project with:
   npm run build / yarn build
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaidehii28/PODTALK&theme=tokyonight)
+## LIVE DEMO: https://podtalk-website.netlify.app/
