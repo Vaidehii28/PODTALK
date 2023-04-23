@@ -66,4 +66,4 @@ Build my-project with:
 The top languages card shows a GitHub user's most frequently used top language.
 
 > **Note**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaidehii28&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaidehii28/PODTALK&theme=tokyonight)
