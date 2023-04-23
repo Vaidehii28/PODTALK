@@ -24,3 +24,18 @@ users can listen the podcast by click on the podcast of their choice.
 
 *Video: Users can see the podcast of their choice by click.
 
+## Installation
+
+Install my-project with:
+
+```bash
+  npm install / yarn install
+```
+Start my-project with:
+```bash
+  npm start / yarn start
+```
+Build my-project with:
+```bash
+  npm run build / yarn build
+```
