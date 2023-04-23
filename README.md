@@ -62,7 +62,4 @@ Build my-project with:
   npm run build / yarn build
 ```
 
-## LIVE DEMO: 
-<a href="[https://a.paddle.com/v2/click/16413/119403?link=2345](https://podtalk-website.netlify.app/)">
-      CLICK HERE!
-    </a>
+[LIVE DEMO]([https://www.google.com](https://podtalk-website.netlify.app/))
