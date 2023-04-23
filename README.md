@@ -10,4 +10,16 @@ Users can browse the website to discover new podcasts based on category or topic
 
 Podcast websites are an essential tool for podcasters to reach a wider audience, as they provide a central hub for listeners to access their content. 
 
+# FUNCTIONALITY
+Search Bar:
+This allows users to get the podcast of their choice
+
+ALL podcast:
+this includes the the all category podcast at one place.
+
+audio:
+users can listen the podcast by click on the podcast of their choice.
+
+Video: Users can see the podcast of their choice by click.
+
 ![Readme Background](./src/static/Screenshot 2023-04-23 111821.jpg)
