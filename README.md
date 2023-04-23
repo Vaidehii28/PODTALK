@@ -61,9 +61,5 @@ Build my-project with:
 ```bash
   npm run build / yarn build
 ```
-# Top Languages Card
 
-The top languages card shows a GitHub user's most frequently used top language.
-
-> **Note**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaidehii28/PODTALK&theme=tokyonight)
