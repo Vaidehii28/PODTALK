@@ -13,14 +13,14 @@ Podcast websites are an essential tool for podcasters to reach a wider audience,
 ![Screenshot 2023-04-23 111821](https://user-images.githubusercontent.com/89007463/233822417-0e424b08-148d-401f-bc77-5542b3398976.jpg)
 
 # FUNCTIONALITY
-Search Bar:
+*Search Bar:
 This allows users to get the podcast of their choice
 
-ALL podcast:
+*ALL podcast:
 this includes the the all category podcast at one place.
 
-audio:
+*Audio:
 users can listen the podcast by click on the podcast of their choice.
 
-Video: Users can see the podcast of their choice by click.
+*Video: Users can see the podcast of their choice by click.
 
